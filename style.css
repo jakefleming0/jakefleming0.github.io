@@ -1,0 +1,35 @@
+body {
+  background-color: tan;
+  border: 10px solid grey;
+  position: fixed;
+  margin: auto;
+  border-style: inset;
+  padding-left: 10px;
+}
+.name{
+  text-align: center;
+  font-style: oblique;
+}
+.emp{
+  text-indent: 20px;
+  text-decoration: underline;
+  font-size: 20px
+}
+.header{
+  font-family: arial, helevetica, sans-serif;
+}
+h6{
+  font-family: arial, helevetica, sans-serif;
+}
+ul{
+  font-family: arial, helevetica, sans-serif;
+  list-style: circle;
+}
+h4{
+  font-family: arial, helevetica, sans-serif;
+}
+img{
+  float: right;
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
