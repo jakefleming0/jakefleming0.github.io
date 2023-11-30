@@ -5,6 +5,7 @@ body {
   margin: auto;
   border-style: inset;
   padding-left: 10px;
+  overflow: scroll;
 }
 .name{
   text-align: center;
