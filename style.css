@@ -34,3 +34,6 @@ img{
   padding-bottom: 5px;
   padding-right: 10px;
 }
+img:hover{
+  transform: scaleX(-1);
+}
